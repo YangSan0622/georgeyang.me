@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import { Component } from 'react';
 import Sidebar from './Components/Sidebar/Sidebar';
-// import Sidebar from './Components/sidebar';
 import Introduction from './Components/introduction';
 
 
@@ -13,7 +12,7 @@ class App extends Component {
         <div id="container-wrap">
          	<Sidebar></Sidebar>
 				<div id="colorlib-main">
-					<Introduction></Introduction>
+					{/* <Introduction></Introduction> */}
           	</div>
       	</div>
       </div>
