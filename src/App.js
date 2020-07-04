@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import { Component } from 'react';
 import Sidebar from './Components/Sidebar/Sidebar';
-import Introduction from './Components/introduction';
+
 
 
 class App extends Component {
@@ -10,11 +10,10 @@ class App extends Component {
     return (
       <div id="colorlib-page">
         <div id="container-wrap">
-         	<Sidebar></Sidebar>
-				<div id="colorlib-main">
-					{/* <Introduction></Introduction> */}
-          	</div>
-      	</div>
+          <Sidebar />
+          <div id="colorlib-main">
+          </div>
+        </div>
       </div>
     );
   }
