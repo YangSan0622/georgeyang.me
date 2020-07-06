@@ -1,0 +1,22 @@
+#colorlib-hero .flexslider .slider-text>.slider-text-inner h1, #colorlib-hero .flexslider .slider-text>.slider-text-inner h2 {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: Raleway;
+}
+
+#colorlib-hero .flexslider .slider-text>.slider-text-inner .btn.btn-learn {
+    color: white;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-left-color: white;
+    border-right-color: white;
+}
+
+.pos_bottom {
+    vertical-align: bottom;
+}
+
+#colorlib-hero .flexslider .flex-control-nav li a.flex-active, #colorlib-hero .flexslider .flex-control-nav li a {
+    background-color: white;
+}
