@@ -12,9 +12,7 @@
     -o-transition: 0.5s;
     transition: 0.5s;
     -ms-overflow-style: none;
-    /* IE and Edge */
     scrollbar-width: none;
-    /* Firefox */
 }
 
 #colorlib-aside::-webkit-scrollbar {
