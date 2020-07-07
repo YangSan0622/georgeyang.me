@@ -2,7 +2,9 @@ import React from 'react';
 import './App.css';
 import { Component } from 'react';
 import Sidebar from './Components/Sidebar/Sidebar';
-import Introduction from './Components/Introduction/Introduction';
+import Slides from './Components/Slides/Slides';
+import Skills from './Components/Skills/Skills';
+import About from './Components/About/About';
 
 
 
@@ -13,7 +15,9 @@ class App extends Component {
         <div id="container-wrap">
           <Sidebar />
           <div id="colorlib-main">
-            <Introduction></Introduction>
+            <Slides/>
+            <Skills/>
+            <About/>
           </div>
         </div>
       </div>
