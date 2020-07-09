@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './Slides.css';
+import ResourceRoot from '../Util';
 
 class Slides extends Component {
     render() {
@@ -8,7 +9,7 @@ class Slides extends Component {
                 <section id="colorlib-hero" className="js-fullheight" data-section="home">
                     <div className="flexslider js-fullheight">
                         <ul className="slides"> 
-                            <li style={{ backgroundImage: 'url(/georgeyang.me/images/yn.png)' }}>
+                            <li style={{ backgroundImage: `url(${ResourceRoot}/images/yn.png)` }}>
                                 <div className="overlay" />
                                 <div className="container-fluid">
                                     <div className="row">
@@ -22,7 +23,7 @@ class Slides extends Component {
                                     </div>
                                 </div>
                             </li>
-                            <li style={{ backgroundImage: 'url(/georgeyang.me/images/wwy2.png)' }}>
+                            <li style={{ backgroundImage: `url(${ResourceRoot}/images/wwy2.png)` }}>
                                 <div className="overlay" />
                                 <div className="container-fluid">
                                     <div className="row">
@@ -32,7 +33,7 @@ class Slides extends Component {
                                                     <h1>I'm George</h1>
                                                     <p>
                                                         <a className="btn btn-primary btn-learn"
-                                                            href="/georgeyang.me/files/George_Yang.pdf" 
+                                                            href= {`${ResourceRoot}/files/George_Yang.pdf` }
                                                             target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                                                 </div>
                                             </div>
