@@ -6,6 +6,7 @@ import Slides from './Components/Slides/Slides';
 import Skills from './Components/Skills/Skills';
 import About from './Components/About/About';
 import Timeline from './Components/Timeline/Timeline';
+import Education from './Components/Education/Education';
 
 
 
@@ -19,6 +20,7 @@ class App extends Component {
             <Slides/>
             <Skills/>
             <Timeline/>
+            <Education/>
             <About/>
           </div>
         </div>
