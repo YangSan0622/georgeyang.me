@@ -4,6 +4,7 @@ import ResourceRoot from '../Util';
 
 
 class Sidebar extends Component {
+    
     render() {
         return (
             <div>
@@ -21,8 +22,9 @@ class Sidebar extends Component {
                                     <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
                                     <li><a href="#skills" data-nav-section="skills">Highlights</a></li>
                                     <li><a href="#timeline" data-nav-section="timeline">Experience</a></li>
+                                    <li><a href="#education" data-nav-section="education">Education</a></li>
                                     <li><a href="#about" data-nav-section="about">About</a></li>
-                                    
+
                                 </ul>
                             </div>
                         </nav>
