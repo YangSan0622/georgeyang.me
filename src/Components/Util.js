@@ -1,4 +1,4 @@
 
-const ResoureRoot = process.env.NODE_ENV === 'development' ? '/georgeyang.me'  : '';
+const ResoureRoot = process.env.NODE_ENV === 'development' ? ''  : '';
 
 export default ResoureRoot;

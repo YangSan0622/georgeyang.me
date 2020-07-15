@@ -23,11 +23,12 @@ class Timeline extends Component {
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Software Engineer(Intern) at eHealth, Santa Clara <span>FEBURARY 2020 – MARCH 2020</span></h2>
-                                                <p>Individually developed a drug name search microservice using Spring Boot,
-                                                    <b>Logstash, Elasticsearch</b> with <b>auto completion</b> and <b>fuzzy search</b><br />
-                                                Integrated and standardized commercial scale ETL jobs using <b>AWS Glue</b> <br></br>
+                                                <ul>
+                                                    <li>Individually developed a drug name search microservice using Spring Boot,
+                                                    <b>Logstash, Elasticsearch</b> with <b>auto completion</b> and <b>fuzzy search</b></li>
+                                                    <li>Integrated and standardized commercial scale ETL jobs using <b>AWS Glue</b></li>
+                                                </ul>
 
-                                                </p>
                                             </div>
                                         </div>
                                     </article>
@@ -38,13 +39,15 @@ class Timeline extends Component {
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Software Developer(Intern) at Rippling, San Francisco <span>MAY 2019 – AUGUST 2019</span></h2>
-                                                <p>Developed the Hardware Management Service Installer and
-                                                    UI using <b>Electron</b> Framework for MacOS and Windows users<br></br>
-                                                    Customized a <b>RADIUS</b> server using <b>FreeRADIUS</b> to deliver WIFI authentication
-                                                    service for more than 10 clients on a monthly basis<br></br>
-                                                    Developed and maintained MacOS software update management service using <b>Munki, Reposado </b>
-                                                    to hide undesired OS software updates and force selected updates on client’s device<br></br>
-                                                    The above projects and features have generated over <b>USD$100,000</b> of revenue monthly for the firm</p>
+                                                <ul>
+                                                    <li>Developed the Hardware Management Service Installer and
+                                                    UI using <b>Electron</b> Framework for MacOS and Windows users</li>
+                                                    <li>Customized a <b>RADIUS</b> server using <b>FreeRADIUS</b> to deliver WIFI authentication
+                                                    service for more than 10 clients on a monthly basis</li>
+                                                    <li>Developed and maintained MacOS software update management service using <b>Munki, Reposado </b>
+                                                    to hide undesired OS software updates and force selected updates on client’s device</li>
+                                                    <li>The above projects and features have generated over <b>USD$100,000</b> of revenue monthly for the firm</li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </article>
@@ -55,11 +58,13 @@ class Timeline extends Component {
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Gameplay Programmer(Intern) at Behaviour Interactive, Montreal <span>SEPTEMBER 2018 – DECEMBER 2018</span></h2>
-                                                <p>Developed <b>gameplay, graphic</b>, and sound features for <b>Dead By Daylight </b>
-                                                using <b>C++</b> and <b>Unreal 4</b> <br></br>
-                                                    Consolidated proficiency in Unreal engine by investigating engine functionalities and
+                                                <ul>
+                                                    <li>Developed <b>gameplay, graphic</b>, and sound features for <b>Dead By Daylight </b>
+                                                using <b>C++</b> and <b>Unreal 4</b></li>
+                                                    <li>Consolidated proficiency in Unreal engine by investigating engine functionalities and
                                                     <b>modifying engine code</b> to implement features for
-                                                    <b> WWise sound engine, mesh</b>, and <b>ray casting</b></p>
+                                                    <b> WWise sound engine, mesh</b>, and <b>ray casting</b></li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </article>
@@ -70,10 +75,12 @@ class Timeline extends Component {
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Software Developer(Intern) at Royal Bank of Canada, Toronto <span>MAY 2018 – AUGEST 2018</span></h2>
-                                                <p>Implemented a UI for RBC’s own <b>S3</b> service using <b>Angular</b>
-                                                    for frontend and Python <b>Flask</b> for backend <br></br>
-                                                    Built development pipelines using <b>Docker</b> to 
-                                                    serve <b>Apache Nifi-cluster</b> and <b>Nifi registry</b></p>
+                                                <ul>
+                                                    <li>Implemented a UI for RBC’s own <b>S3</b> service using <b>Angular</b>
+                                                    for frontend and Python <b>Flask</b> for backend</li>
+                                                    <li>Built development pipelines using <b>Docker</b> to
+                                                    serve <b>Apache Nifi-cluster</b> and <b>Nifi registry</b></li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </article>
@@ -84,11 +91,13 @@ class Timeline extends Component {
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Software Developer(Intern) at Opentext, Richmond Hill <span>SEPTEMBER 2017 – DECEMBER 2017</span></h2>
-                                                <p>Worked at Opentext Exstream production team for their <b>Automated Testing 
-                                                    Framework migration</b> using Python and its GUI automation 
-                                                    module <b>pywinauto</b>. <br></br>
-                                                    The migration process includes implementing functions for new Automated 
-                                                    Testing Framework and converting existing testing scripts.</p>
+                                                <ul>
+                                                    <li>Worked at Opentext Exstream production team for their <b>Automated Testing
+                                                    Framework migration</b> using Python and its GUI automation
+                                                    module <b>pywinauto</b></li>
+                                                    <li>The migration process includes implementing functions for new Automated
+                                                    Testing Framework and converting existing testing scripts</li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </article>
