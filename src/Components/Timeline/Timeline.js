@@ -25,10 +25,17 @@ class Timeline extends Component {
                                                 <h2>Software Engineer(Intern) at eHealth, Santa Clara <span>FEBURARY 2020 – MARCH 2020</span></h2>
                                                 <ul>
                                                     <li>Individually developed a drug name search microservice using Spring Boot,
-                                                    <b>Logstash, Elasticsearch</b> with <b>auto completion</b> and <b>fuzzy search</b></li>
+                                                    <b> Logstash, Elasticsearch</b> with <b>auto completion</b> and <b>fuzzy search</b></li>
                                                     <li>Integrated and standardized commercial scale ETL jobs using <b>AWS Glue</b></li>
                                                 </ul>
-
+                                                <p>
+                                                    The anticipated start and end date for this internship was Janurary 2020 to April 2020. 
+                                                    However, because of the visa process I started late and due to COVID-19 outbreak I have to end it early.<br></br>
+                                                    Even I only had approximately one month, I still managed to get my hands on the entire bussiness flow 
+                                                    for eHealth drug service. For example, ETL tasks that extracts, transforms, and loads raw data into database using AWS Glue,
+                                                    working with architects to design the data model for drug service, and building the drug name search microservice using
+                                                    Elasticsearch and Logstash.
+                                                </p>
                                             </div>
                                         </div>
                                     </article>
@@ -62,7 +69,7 @@ class Timeline extends Component {
                                                     <li>Developed <b>gameplay, graphic</b>, and sound features for <b>Dead By Daylight </b>
                                                 using <b>C++</b> and <b>Unreal 4</b></li>
                                                     <li>Consolidated proficiency in Unreal engine by investigating engine functionalities and
-                                                    <b>modifying engine code</b> to implement features for
+                                                    <b> modifying engine code</b> to implement features for
                                                     <b> WWise sound engine, mesh</b>, and <b>ray casting</b></li>
                                                 </ul>
                                             </div>
