@@ -34,7 +34,7 @@ class Slides extends Component {
                                                     <p>
                                                         <a className="btn btn-primary btn-learn"
                                                             href= {`${ResourceRoot}/files/George_Yang.pdf` }
-                                                            target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                                                            target="_blank" rel="noopener noreferrer">View Resume<i className="icon-download4" /></a></p>
                                                 </div>
                                             </div>
                                         </div>
